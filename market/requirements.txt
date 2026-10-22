@@ -15,4 +15,4 @@ virtualenv==21.14.6
 virtualenvwrapper-win==1.2.7
 whitenoise==6.12.0
 gunicorn==26.2.0
-withnoise==16.2.0
+whitenoise==16.2.0
